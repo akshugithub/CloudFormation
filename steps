@@ -1,0 +1,6 @@
+create file and write code
+save file as yaml
+in aws console goto cf
+create stack and upload file
+update cidr and tag details
+create stack for creating resources
